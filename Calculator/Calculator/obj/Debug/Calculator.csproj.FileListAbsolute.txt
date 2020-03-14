@@ -1,0 +1,50 @@
+C:\Users\Programming9\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Programming9\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Programming9\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form3.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.Form3.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\Calculator\Calculator\obj\Debug\Calculator.Sales.resources
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.Form3.resources
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.Sales.resources
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Shahriar Hamim\Desktop\tax-master\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\february\tax\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\february\tax\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\february\tax\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.Form3.resources
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.Sales.resources
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\february\tax\Calculator\Calculator\obj\Debug\Calculator.pdb
